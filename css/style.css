@@ -18,3 +18,6 @@
     background-color: var(--blue);
 }
 
+.bg-green {
+    background-color: var(--green);
+}
